@@ -1,0 +1,15 @@
+{
+ "private": {
+  "kty": "EC",
+  "x": "7lJQN-id4mui-UTG53ywMTI9UvhD_IP1ZgNs0tOBtn8",
+  "y": "xj-2Oh2UbgK-DaLYv_3SSM9szNc_10YVCdLeJOGf3XA",
+  "crv": "P-256",
+  "d": "yIQdH2xU3VmWUycLQS0v5nb4KNW1NVQa0l4bdf75cBI"
+ },
+ "public": {
+  "kty": "EC",
+  "x": "7lJQN-id4mui-UTG53ywMTI9UvhD_IP1ZgNs0tOBtn8",
+  "y": "xj-2Oh2UbgK-DaLYv_3SSM9szNc_10YVCdLeJOGf3XA",
+  "crv": "P-256"
+ }
+}
